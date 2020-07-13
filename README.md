@@ -14,7 +14,7 @@ Valle MP3 Player is an android MP3 player created with design material by the co
 
 ## Presentation Screenshots
 
-!(https://github.com/PekenoSalta/Valle-MP3-Player/blob/master/PRESENTACION%202018/1.jpg)
+!(https://raw.githubusercontent.com/PekenoSalta/Valle-MP3-Player/master/PRESENTACION%202018/1.jpg)
 
 ## Videos
 
